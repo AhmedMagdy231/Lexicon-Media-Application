@@ -1,0 +1,24 @@
+{
+
+  "introduction_title" : "التعلم هو كل شيء",
+  "introduction_subtitle" : "التعلم بسعادة مع عزيزي المبرمج، في أي وقت وأينما كنت.",
+  "introduction_button" : "ابدأ",
+  "login_Login": "تسجيل الدخول",
+  "login_sign_up": "انشاء حساب",
+  "login_phone_number": "رقم الهاتف",
+  "login_email": "البريد الإلكتروني",
+  "login_email_valid": "يرجى إدخال البريد الإلكتروني الخاص بك",
+  "login_phone_number_valid": "يرجى إدخال رقم الهاتف الخاص بك",
+  "login_password_valid": "يرجى إدخال كلمة المرور الخاصة بك",
+  "login_password": "كلمة المرور",
+  "login_have_an_account": "هل لديك حساب؟",
+  "register_name": "الاسم",
+  "register_name_valid":"يرجى إدخال اسمك",
+  "login_forget_password" : "نسيت كلمة المرور؟",
+  "forget_password_title" : "يرجى إدخال بريدك الإلكتروني لتلقي رمز",
+  "forget_password_button" : "إرسال",
+  "settings_logo": "المعجم الإعلامي",
+  "settings_title_language": "لغة التطبيق هي العربيه",
+  "settings_title_them": "وضع السمة هو الأبيض",
+  "setting_button" : "تغير"
+}

@@ -1,0 +1,24 @@
+{
+
+  "introduction_title" : "Learning is Everything",
+  "introduction_subtitle" : "Learning with Pleasure with Dear Programmer, Whenever you are.",
+  "introduction_button" : "Get Start",
+  "login_Login": "Login",
+  "login_phone_number": "Phone Number",
+  "login_email": "Email",
+  "login_email_valid": "Please Enter Your Email",
+  "login_phone_number_valid": "Please Enter Your Phone",
+  "login_password_valid": "Please Enter Your Password",
+  "login_password": "Password",
+  "login_have_an_account": "Already have an Account?",
+  "login_sign_up": "Sign Up",
+  "register_name": "Name",
+  "register_name_valid":"Please Enter Your Name",
+  "login_forget_password" : "Forget Password ?",
+  "forget_password_title" : "Please enter your email to receive a code",
+  "forget_password_button" : "Send",
+  "settings_logo": "Media Lexicon",
+  "settings_title_language": "The Application Language is English",
+  "settings_title_them": "The theme mode is Light",
+  "setting_button" : "Change"
+}
